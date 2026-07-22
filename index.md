@@ -6,6 +6,8 @@ Student at Beihang University
 
 - Artificial Intelligence
 - Machine Learning
+- Fairness in Machine Learning
+- Attacks and Defenses on Algorithmic Fairness
 
 ## Contact
 
